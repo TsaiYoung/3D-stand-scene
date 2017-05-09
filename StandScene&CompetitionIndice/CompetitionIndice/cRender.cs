@@ -134,7 +134,7 @@ namespace CompetitionIndice
             SceneNode[] treesNode = new SceneNode[143];
             for (int i = 0; i < 143; i++)
             {
-                trees[i] = mSceneMgr.CreateEntity(items[i].TreeNo.ToString(), "hsTreeMaxPice2+1+Ent.mesh");
+                trees[i] = mSceneMgr.CreateEntity(items[i].TreeNo.ToString(), "sm3.13.mesh");
                 trees[i].CastShadows = true;
                 treesNode[i] = mSceneMgr.RootSceneNode.CreateChildSceneNode(items[i].TreeNo.ToString());
                 treesNode[i].SetPosition((float)(items[i].X * 10 - 250), 0, (float)(items[i].Y * 10 - 250));

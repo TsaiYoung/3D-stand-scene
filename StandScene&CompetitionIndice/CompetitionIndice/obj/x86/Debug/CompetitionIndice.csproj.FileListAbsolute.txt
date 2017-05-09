@@ -38,3 +38,12 @@ E:\program\CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.R
 E:\program\CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.Form1.resources
 E:\program\CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.Properties.Resources.resources
 E:\program\CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.csproj.GenerateResource.Cache
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.exe
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.pdb
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\bin\Debug\CompetitionIndice.exe
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\bin\Debug\CompetitionIndice.pdb
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.RenderForm.resources
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.Form1.resources
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.Properties.Resources.resources
+E:\GitHub\3D-stand-scene\StandScene&CompetitionIndice\CompetitionIndice\obj\x86\Debug\CompetitionIndice.csproj.GenerateResource.Cache
