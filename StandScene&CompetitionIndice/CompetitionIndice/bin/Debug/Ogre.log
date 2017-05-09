@@ -1,0 +1,292 @@
+16:56:56: Creating resource group General
+16:56:56: Creating resource group Internal
+16:56:56: Creating resource group Autodetect
+16:56:56: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:56:56: Registering ResourceManager for type Material
+16:56:56: Registering ResourceManager for type Mesh
+16:56:56: Registering ResourceManager for type Skeleton
+16:56:56: MovableObjectFactory for type 'ParticleSystem' registered.
+16:56:56: OverlayElementFactory for type Panel registered.
+16:56:56: OverlayElementFactory for type BorderPanel registered.
+16:56:56: OverlayElementFactory for type TextArea registered.
+16:56:56: Registering ResourceManager for type Font
+16:56:56: ArchiveFactory for archive type FileSystem registered.
+16:56:56: ArchiveFactory for archive type Zip registered.
+16:56:56: DDS codec registering
+16:56:56: FreeImage version: 3.13.1
+16:56:56: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+16:56:56: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,bay,bmq,cr2,crw,cs1,dc2,dcr,dng,erf,fff,hdr,k25,kdc,mdc,mos,mrw,nef,orf,pef,pxn,raf,raw,rdc,sr2,srf,arw,3fr,cine,ia,kc2,mef,nrw,qtk,rw2,sti,drf,dsc,ptx,cap,iiq,rwz
+16:56:56: PVRTC codec registering
+16:56:56: Registering ResourceManager for type HighLevelGpuProgram
+16:56:56: Registering ResourceManager for type Compositor
+16:56:56: MovableObjectFactory for type 'Entity' registered.
+16:56:56: MovableObjectFactory for type 'Light' registered.
+16:56:56: MovableObjectFactory for type 'BillboardSet' registered.
+16:56:56: MovableObjectFactory for type 'ManualObject' registered.
+16:56:56: MovableObjectFactory for type 'BillboardChain' registered.
+16:56:56: MovableObjectFactory for type 'RibbonTrail' registered.
+16:56:56: Loading library .\RenderSystem_Direct3D9
+16:56:57: Installing plugin: D3D9 RenderSystem
+16:56:57: D3D9 : Direct3D9 Rendering Subsystem created.
+16:56:57: D3D9: Driver Detection Starts
+16:56:57: D3D9: Driver Detection Ends
+16:56:57: Plugin successfully installed
+16:56:57: Loading library .\RenderSystem_GL
+16:56:57: Installing plugin: GL RenderSystem
+16:56:57: OpenGL Rendering Subsystem created.
+16:56:58: Plugin successfully installed
+16:56:58: Loading library .\Plugin_OctreeSceneManager
+16:56:58: Installing plugin: Octree & Terrain Scene Manager
+16:56:58: Plugin successfully installed
+16:56:58: Loading library .\Plugin_ParticleFX
+16:56:58: Installing plugin: ParticleFX
+16:56:58: Particle Emitter Type 'Point' registered
+16:56:58: Particle Emitter Type 'Box' registered
+16:56:58: Particle Emitter Type 'Ellipsoid' registered
+16:56:58: Particle Emitter Type 'Cylinder' registered
+16:56:58: Particle Emitter Type 'Ring' registered
+16:56:58: Particle Emitter Type 'HollowEllipsoid' registered
+16:56:58: Particle Affector Type 'LinearForce' registered
+16:56:58: Particle Affector Type 'ColourFader' registered
+16:56:58: Particle Affector Type 'ColourFader2' registered
+16:56:58: Particle Affector Type 'ColourImage' registered
+16:56:58: Particle Affector Type 'ColourInterpolator' registered
+16:56:58: Particle Affector Type 'Scaler' registered
+16:56:58: Particle Affector Type 'Rotator' registered
+16:56:58: Particle Affector Type 'DirectionRandomiser' registered
+16:56:58: Particle Affector Type 'DeflectorPlane' registered
+16:56:58: Plugin successfully installed
+16:56:58: *-*-* OGRE Initialising
+16:56:58: *-*-* Version 1.7.1 (Cthugha)
+16:56:58: Creating resource group Bootstrap
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/packs/OgreCore.zip' of type 'Zip' to resource group 'Bootstrap'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/sky' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/lensflare' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/trees2' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/terrain2' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/house/house1' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/house/house2' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/house/house3' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/house/house4' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/warningboard' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/grass' of type 'FileSystem' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:56:58: Added resource location 'C:/FVSS-Mogre/Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:56:58: Creating resource group landsample
+16:56:58: Added resource location 'C:\FVSS-Mogre\Media\terrain2/landsample' of type 'FileSystem' to resource group 'landsample'
+16:56:58: D3D9 : RenderSystem Option: Full Screen = No
+16:56:58: D3D9 : RenderSystem Option: Video Mode = 1280 x 1024 @ 32-bit colour
+16:56:58: CPU Identifier & Features
+16:56:58: -------------------------
+16:56:58:  *   CPU ID: GenuineIntel: Intel(R) Xeon(R) CPU           W3530  @ 2.80GHz
+16:56:58:  *      SSE: yes
+16:56:58:  *     SSE2: yes
+16:56:58:  *     SSE3: yes
+16:56:58:  *      MMX: yes
+16:56:58:  *   MMXEXT: yes
+16:56:58:  *    3DNOW: no
+16:56:58:  * 3DNOWEXT: no
+16:56:58:  *     CMOV: yes
+16:56:58:  *      TSC: yes
+16:56:58:  *      FPU: yes
+16:56:58:  *      PRO: yes
+16:56:58:  *       HT: no
+16:56:58: -------------------------
+16:56:58: D3D9 : Subsystem Initialising
+16:56:58: Registering ResourceManager for type Texture
+16:56:58: Registering ResourceManager for type GpuProgram
+16:56:58: ***************************************
+16:56:58: *** D3D9 : Subsystem Initialised OK ***
+16:56:58: ***************************************
+16:56:58: D3D9RenderSystem::_createRenderWindow "Main RenderWindow", 800x700 windowed  miscParams: externalWindowHandle=659556 
+16:56:58: D3D9 : Created D3D9 Rendering Window 'Main RenderWindow' : 784x662, 32bpp
+16:56:58: D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+16:56:58: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
+16:56:58: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
+16:56:58: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
+16:56:58: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
+16:56:58: D3D9: Vertex texture format supported - PF_FLOAT16_R
+16:56:58: D3D9: Vertex texture format supported - PF_FLOAT32_R
+16:56:58: D3D9: Vertex texture format supported - PF_FLOAT16_GR
+16:56:58: D3D9: Vertex texture format supported - PF_FLOAT32_GR
+16:56:58: RenderSystem capabilities
+16:56:58: -------------------------
+16:56:58: RenderSystem Name: Direct3D9 Rendering Subsystem
+16:56:58: GPU Vendor: nvidia
+16:56:58: Device Name: Monitor-1-NVIDIA Quadro FX 3800
+16:56:58: Driver Version: 9.18.13.4195
+16:56:58:  * Fixed function pipeline: yes
+16:56:58:  * Hardware generation of mipmaps: yes
+16:56:58:  * Texture blending: yes
+16:56:58:  * Anisotropic texture filtering: yes
+16:56:58:  * Dot product texture operation: yes
+16:56:58:  * Cube mapping: yes
+16:56:58:  * Hardware stencil buffer: yes
+16:56:58:    - Stencil depth: 8
+16:56:58:    - Two sided stencil support: yes
+16:56:58:    - Wrap stencil values: yes
+16:56:58:  * Hardware vertex / index buffers: yes
+16:56:58:  * Vertex programs: yes
+16:56:58:  * Number of floating-point constants for vertex programs: 256
+16:56:58:  * Number of integer constants for vertex programs: 16
+16:56:58:  * Number of boolean constants for vertex programs: 16
+16:56:58:  * Fragment programs: yes
+16:56:58:  * Number of floating-point constants for fragment programs: 224
+16:56:58:  * Number of integer constants for fragment programs: 16
+16:56:58:  * Number of boolean constants for fragment programs: 16
+16:56:58:  * Geometry programs: no
+16:56:58:  * Number of floating-point constants for geometry programs: 0
+16:56:58:  * Number of integer constants for geometry programs: 0
+16:56:58:  * Number of boolean constants for geometry programs: 0
+16:56:58:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
+16:56:58:  * Texture Compression: yes
+16:56:58:    - DXT: yes
+16:56:58:    - VTC: no
+16:56:58:    - PVRTC: no
+16:56:58:  * Scissor Rectangle: yes
+16:56:58:  * Hardware Occlusion Query: yes
+16:56:58:  * User clip planes: yes
+16:56:58:  * VET_UBYTE4 vertex element type: yes
+16:56:58:  * Infinite far plane projection: yes
+16:56:58:  * Hardware render-to-texture: yes
+16:56:58:  * Floating point textures: yes
+16:56:58:  * Non-power-of-two textures: yes
+16:56:58:  * Volume textures: yes
+16:56:58:  * Multiple Render Targets: 4
+16:56:58:    - With different bit depths: yes
+16:56:58:  * Point Sprites: yes
+16:56:58:  * Extended point parameters: yes
+16:56:58:  * Max Point Size: 10
+16:56:58:  * Vertex texture fetch: yes
+16:56:58:  * Number of world matrices: 0
+16:56:58:  * Number of texture units: 8
+16:56:58:  * Stencil buffer depth: 8
+16:56:58:  * Number of vertex blend matrices: 0
+16:56:58:    - Max vertex textures: 4
+16:56:58:    - Vertex textures shared: no
+16:56:58:  * Render to Vertex Buffer : no
+16:56:58:  * DirectX per stage constants: yes
+16:56:58: DefaultWorkQueue('Root') initialising on thread main.
+16:56:58: Particle Renderer Type 'billboard' registered
+16:56:58: SceneManagerFactory for type 'OctreeSceneManager' registered.
+16:56:58: SceneManagerFactory for type 'TerrainSceneManager' registered.
+16:56:58: TerrainSceneManager: Registered a new PageSource for type Heightmap
+16:56:58: Parsing scripts for resource group Autodetect
+16:56:58: Finished parsing scripts for resource group Autodetect
+16:56:58: Parsing scripts for resource group Bootstrap
+16:56:58: Parsing script OgreCore.material
+16:56:58: Parsing script OgreProfiler.material
+16:56:58: Parsing script Ogre.fontdef
+16:56:58: Parsing script OgreDebugPanel.overlay
+16:56:58: Texture: New_Ogre_Border_Center.png: Loading 1 faces(PF_A8R8G8B8,256x128x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x128x1.
+16:56:58: Texture: New_Ogre_Border.png: Loading 1 faces(PF_A8R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+16:56:58: Texture: New_Ogre_Border_Break.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+16:56:58: Parsing script OgreLoadingPanel.overlay
+16:56:58: Parsing script aaaaa.overlay
+16:56:58: Texture: New_Ogre_Border_Center55.png: Loading 1 faces(PF_A8R8G8B8,1067x534x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,1067x534x1.
+16:56:58: Parsing script bbb.overlay
+16:56:58: Finished parsing scripts for resource group Bootstrap
+16:56:58: Parsing scripts for resource group General
+16:56:58: Parsing script 112.material
+16:56:58: Compiler error: unknown error in 112.material(12): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 112.material(15): token "#specular" is not recognized
+16:56:58: Compiler error: unknown error in 112.material(46): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 112.material(49): token "#specular" is not recognized
+16:56:58: Parsing script 31.material
+16:56:58: Compiler error: unknown error in 31.material(11): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 31.material(44): token "#depth_write" is not recognized
+16:56:58: Parsing script 334.material
+16:56:58: Compiler error: unknown error in 334.material(15): token "#texture" is not recognized
+16:56:58: Compiler error: unknown error in 334.material(37): token "#ambient" is not recognized
+16:56:58: Parsing script ys_grow1.material
+16:56:58: Compiler error: unknown error in ys_grow1.material(11): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in ys_grow1.material(44): token "#depth_write" is not recognized
+16:56:58: Parsing script Example.material
+16:56:58: Compiler error: reference to a non existing object in Example.material(212)
+16:56:58: Compiler error: reference to a non existing object in Example.material(716)
+16:56:58: Compiler error: reference to a non existing object in Example.material(728)
+16:56:58: Compiler error: reference to a non existing object in Example.material(863)
+16:56:58: Compiler error: reference to a non existing object in Example.material(898)
+16:56:58: Compiler error: reference to a non existing object in Example.material(1006)
+16:56:58: Compiler error: reference to a non existing object in Example.material(1011)
+16:56:58: Parsing script Skysun.material
+16:56:58: Compiler error: unknown error in Skysun.material(9): token "#scene_blend" is not recognized
+16:56:58: Parsing script 123.material
+16:56:58: Compiler error: unknown error in 123.material(11): token "#depth_write" is not recognized
+16:56:58: Parsing script 3PiceSm.material
+16:56:58: Compiler error: unknown error in 3PiceSm.material(11): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 3PiceSm.material(42): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 3PiceSm.material(73): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 3PiceSm.material(106): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 3PiceSm.material(137): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 3PiceSm.material(168): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in 3PiceSm.material(169): token "cull_hardware" is not recognized
+16:56:58: Parsing script AroundTree.material
+16:56:58: Compiler error: unknown error in AroundTree.material(11): token "#" is not recognized
+16:56:58: Compiler error: unknown error in AroundTree.material(35): token "#" is not recognized
+16:56:58: Parsing script cb0.material
+16:56:58: Compiler error: unknown error in cb0.material(11): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in cb0.material(42): token "#depth_write" is not recognized
+16:56:58: Parsing script cbLod.material
+16:56:58: Compiler error: unknown error in cbLod.material(13): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in cbLod.material(46): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in cbLod.material(79): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in cbLod.material(112): token "#depth_write" is not recognized
+16:56:58: Parsing script CurrentTree.material
+16:56:58: Compiler error: unknown error in CurrentTree.material(11): token "#" is not recognized
+16:56:58: Compiler error: unknown error in CurrentTree.material(35): token "#" is not recognized
+16:56:58: Parsing script ezq7.material
+16:56:58: Parsing script LittleTree.material
+16:56:58: Compiler error: unknown error in LittleTree.material(11): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in LittleTree.material(43): token "#depth_write" is not recognized
+16:56:58: Parsing script sm3.13.material
+16:56:58: Compiler error: unknown error in sm3.13.material(10): token "#" is not recognized
+16:56:58: Compiler error: unknown error in sm3.13.material(39): token "#" is not recognized
+16:56:58: Parsing script smLod.material
+16:56:58: Compiler error: unknown error in smLod.material(10): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in smLod.material(40): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in smLod.material(70): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in smLod.material(100): token "#depth_write" is not recognized
+16:56:58: Parsing script sm_Tree1.material
+16:56:58: Compiler error: unknown error in sm_Tree1.material(10): token "#" is not recognized
+16:56:58: Compiler error: unknown error in sm_Tree1.material(39): token "#" is not recognized
+16:56:58: Parsing script SZ.material
+16:56:58: Compiler error: unknown error in SZ.material(20): token "scrool_anim" is not recognized
+16:56:58: Parsing script xzLod.material
+16:56:58: Compiler error: unknown error in xzLod.material(16): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in xzLod.material(52): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in xzLod.material(88): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in xzLod.material(124): token "#depth_write" is not recognized
+16:56:58: Parsing script ysLod.material
+16:56:58: Compiler error: unknown error in ysLod.material(11): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in ysLod.material(42): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in ysLod.material(73): token "#depth_write" is not recognized
+16:56:58: Compiler error: unknown error in ysLod.material(105): token "#cull_hardware" is not recognized
+16:56:58: Parsing script Mogreterrain - test1.material
+16:56:58: Compiler error: unknown error in Mogreterrain - test1.material(20): token "#separate_scene_blend" is not recognized
+16:56:58: Compiler error: unknown error in Mogreterrain - test1.material(33): token "#separate_scene_blend" is not recognized
+16:56:58: Parsing script Mogreterrain - test2.material
+16:56:58: Compiler error: unknown error in Mogreterrain - test2.material(5): token "#emissive" is not recognized
+16:56:58: Compiler error: unknown error in Mogreterrain - test2.material(9): token "#ambient" is not recognized
+16:56:58: Compiler error: unknown error in Mogreterrain - test2.material(32): token "#ambient" is not recognized
+16:56:58: Compiler error: unknown error in Mogreterrain - test2.material(33): token "#diffuse" is not recognized
+16:56:58: Parsing script Mogreterrain.material
+16:56:58: Compiler error: unknown error in Mogreterrain.material(5): token "#lod_values" is not recognized
+16:56:58: Compiler error: unknown error in Mogreterrain.material(12): token "#lighting" is not recognized
+16:56:58: Parsing script RomanBath.material
+16:56:58: Finished parsing scripts for resource group General
+16:56:58: Parsing scripts for resource group Internal
+16:56:58: Finished parsing scripts for resource group Internal
+16:56:58: Parsing scripts for resource group landsample
+16:56:58: Finished parsing scripts for resource group landsample
+16:56:58: Texture: skyTest.jpg: Loading 1 faces(PF_R8G8B8,1000x1000x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,1000x1000x1.
+16:56:59: Can't assign material Examples/GrassLand to SubEntity of GroundEntity because this Material does not exist. Have you forgotten to define it in a .material script?
+16:56:59: Mesh: Loading hsTreeMaxPice2+1+Ent.mesh.
+16:56:59: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource hsTreeMaxPice2+1+Ent.mesh in resource group Autodetect or any other group. in ResourceGroupManager::openResource at ..\..\ogre\OgreMain\src\OgreResourceGroupManager.cpp (line 753)
+16:57:27: Mesh: Loading hsTreeMaxPice2+1+Ent.mesh.
+16:57:27: OGRE EXCEPTION(6:FileNotFoundException): Cannot locate resource hsTreeMaxPice2+1+Ent.mesh in resource group Autodetect or any other group. in ResourceGroupManager::openResource at ..\..\ogre\OgreMain\src\OgreResourceGroupManager.cpp (line 753)
